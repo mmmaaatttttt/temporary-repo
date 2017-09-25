@@ -1,0 +1,9 @@
+body {
+<<<<<<< HEAD
+  font-size: 100px;
+  background: blue;
+=======
+  background-color: #red;
+  font-size: 100px;
+>>>>>>> 88d7196... adding styles.css
+}
